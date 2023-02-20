@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+
+
+.header {
+    text-align: center;
+    background-image: url('https://cdn7.kiwilimon.com/ss_secreto/2108/960x640/2108.jpg.jpg');
+    height: 800px;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+span {
+    font-size: 40px;
+    font-family: 'Julee', cursive;
+    text-decoration: underline; 
+}
+

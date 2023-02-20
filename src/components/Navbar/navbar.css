@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+
+
+.barra{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-evenly;
+    height: 50px; 
+    width: auto;
+    background-color: bisque;
+    font-family: 'Julee', cursive;
+    
+}
+
+li{
+    font-size: 25px;
+    background-color: transparent;
+    text-decoration: none;
+    outline:none;
+    transition: .5s, white .10s;
+        -webkit-transition: .5s, white .10s;
+        -moz-transition: .5s, white .10s;
+}
+
+li:hover{
+    transform: translatey(-10px);
+        -webkit-transform: translatey(-10px);
+        -moz-transform: translatey(-10px);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul.barra {
+    padding: 0px;
+}
