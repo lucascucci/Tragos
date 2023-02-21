@@ -49,7 +49,7 @@ const Form = () => {
         <div>
             <h4 className="form-title">Formulario para la compra</h4>
             <br></br>
-            <label htmlFor='name'>Nombre:</label>
+            <label htmlFor='name'>Nombre:</label><br></br>
             <input
             name='name'
             id='name'
@@ -59,7 +59,7 @@ const Form = () => {
             </input>
         </div>
         <div>
-            <label htmlFor='email'>Email:</label>
+            <label htmlFor='email'>Email:</label><br></br>
             <input
                 name='email'
                 id='email'
@@ -69,7 +69,7 @@ const Form = () => {
             </input>
         </div>
         <div>
-            <label htmlFor='message'>Mensaje</label>
+            <label htmlFor='message'>Mensaje</label><br></br>
             <textarea
             name='message'
             id='message'
