@@ -1,6 +1,5 @@
 import './home.css';
-import Envios from '../Routes/Envios/Envios';
-import Footer from '../Footer/Footer';
+
 
 const Home = () => {
 
