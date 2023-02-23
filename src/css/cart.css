@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+
+
+
+.contenedorOri {
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction: column;
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+.titulo {
+    font-size: 35px;
+    font-family: 'Julee', cursive;
+}
+
+.imagen{
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+
+.vaciar {
+    text-align:left;
+    background-color: antiquewhite;
+}
+
+.carriVacio {
+    text-align: center;
+}
+
+.value {
+    font-size: 32px;
+    font-family: 'Julee', cursive;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

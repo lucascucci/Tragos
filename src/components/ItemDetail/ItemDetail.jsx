@@ -1,4 +1,4 @@
-import './itemDetail.css';
+import '../../css/itemDetail.css';
 import { Link } from 'react-router-dom';
 import { useCartContext } from '../../context/CartContext';
 import ItemCount from '../ItemCount/ItemCount';

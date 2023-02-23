@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useCartContext } from "../../context/CartContext";
-import './cartWidget.css';
+import '../../css/cartWidget.css';
 import Carro from "../../assets/cart.png";
 
 const CartWidget = () => {

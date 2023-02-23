@@ -1,4 +1,4 @@
-import './contactanos.css'
+import '../../../css/contactanos.css';
 import { Link } from 'react-router-dom';
 
 

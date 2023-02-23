@@ -1,4 +1,4 @@
-import '../Card/card.css';
+import '../../css/card.css';
 
 const Card = ({data})=> {
 

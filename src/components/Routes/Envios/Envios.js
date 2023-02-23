@@ -1,5 +1,5 @@
 
-import './envios.css';
+import '../../../css/envios.css';
 import { Link } from 'react-router-dom';
 
 const Envios = () => {
